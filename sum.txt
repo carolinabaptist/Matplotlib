@@ -1,0 +1,8 @@
+
+
+plt.plot(x,y, color, width, label): draw a line with color, width, label
+plt.show(): display graph
+plt.xlabel(''): x label
+plt.ylabel(''): y label
+plt.title(''): title of graph
+plt.legend(): labels appears on graph
